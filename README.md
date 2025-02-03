@@ -1,6 +1,6 @@
 # João Rodrigues
 
-Eu sou João Rodrigues, tenho 21 anos e sou um entusiasta de tecnologia.
+Eu sou João Rodrigues, tenho 22 anos e sou um entusiasta de tecnologia.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jordris&theme=transparent&bg_color=000&border_color=000C&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)
 
